@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Greg Lanzalotto"
 title_separator          : "-"
 name                     : &name "Greg Lanzalotto"
 description              : &description "BA Student in Mathematical Economics"
