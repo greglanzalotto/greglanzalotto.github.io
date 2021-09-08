@@ -14,4 +14,9 @@ In the past, I've worked as a research assistant for the [Penn Wharton Budget Mo
 
 I've also completed consulting for the Wharton Analytics Fellows, a highly selective fellowship program that allows motivated Wharton undergraduates, MBAs, and graduate students to put their analytics skills to the test in the real world. Through my experience and coursework I've become proficient in R, and Python, along with their assorted machine learning, data analysis, and data visualization packages. 
 
-I'm passionate about making the world a better place through data and I'm applying to doctoral programs starting in the fall of 2022. My research interests are in computational social science, causal infrence, and machine learning. 
+I'm passionate about making the world a better place through data and I'm applying to doctoral programs starting in the fall of 2022. My research interests are in computational social science, causal inference, and machine learning. 
+
+My latest CV can be found [here](http://greglanzalotto.github.io/files/GregoryLanzalottoCV.pdf). (Updated September 2021)
+
+Thank you for visiting!
+
