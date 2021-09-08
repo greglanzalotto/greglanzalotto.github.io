@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 A link to my latest CV can be found [here](greglanzalotto.github.io/files/GregoryLanzalottoCV.pdf). (Updated September 2021)
