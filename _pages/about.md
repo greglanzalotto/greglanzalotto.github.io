@@ -18,5 +18,5 @@ I'm passionate about making the world a better place through data and I'm applyi
 
 My latest CV can be found [here](http://greglanzalotto.github.io/files/GregLanzalottoCV.pdf). (Updated November 2021)
 
-Thank you for visiting and feel free to reach out on my [twitter](https://twitter.com/GregLanzalotto) or over [email](glanza@sas.upenn.edu).
+Thank you for visiting and feel free to reach out on my [twitter](https://twitter.com/GregLanzalotto) or over [email](mailto:glanza@sas.upenn.edu).
 
