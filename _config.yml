@@ -77,6 +77,8 @@ analytics:
   google: 
     tracking_id          :  "google-site-verification=QAW2b2o8ZdAscbEiazJP-_yyoXjp3F6dCsZB2oAmYpU"
 
+google_analytics: google-site-verification=QAW2b2o8ZdAscbEiazJP-_yyoXjp3F6dCsZB2oAmYpU
+google_analytics: "google-site-verification=QAW2b2o8ZdAscbEiazJP-_yyoXjp3F6dCsZB2oAmYpU"
 
 # Site Author
 author:
