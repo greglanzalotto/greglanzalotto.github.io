@@ -74,7 +74,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  google: google-site-verification=QAW2b2o8ZdAscbEiazJP-_yyoXjp3F6dCsZB2oAmYpU
     tracking_id          :
 
 
