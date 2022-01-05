@@ -117,6 +117,9 @@ author:
   wikipedia        :
 
 
+plugins:
+  - jekyll-sitemap
+
 # Reading Files
 include:
   - .htaccess
