@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Greg Lanzalotto"
 title_separator          : "-"
 name                     : &name "Greg Lanzalotto"
-description              : &description "BA Student in Mathematical Economics"
+description              : &description "PhD Student in Operations, Information, and Decisions"
 url                      : https://greglanzalotto.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://greglanzalotto.github.io/"
