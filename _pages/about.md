@@ -18,7 +18,7 @@ As an undergrad, I consulted for the Wharton Analytics Fellows, a highly selecti
 
 I'm passionate about making the world a better place through data. My research interests are in computational social science, causal inference, and machine learning. 
 
-My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV.pdf). (Updated March 2023)
+My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV.pdf). (Updated May 2024)
 
 Thank you for visiting and feel free to reach out on my [twitter](https://twitter.com/GregLanzalotto) or over [email](mailto:glanza@sas.upenn.edu).
 
