@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a first-year graduate student in in the Operations, Information and Decisions Department at The Wharton School. I conduct research with the group Research on Policing Reform and Accountability ([RoPRA](https://policingresearch.org/)). Currently, I'm building an artificial intelligence algorithim to automate analysis of police body-worn camera footage and working on other policing related projects.
+Welcome! I'm a first-year graduate student in in the Operations, Information and Decisions Department at The Wharton School. I conduct research with the group Research on Policing Reform and Accountability ([RoPRA](https://policingresearch.org/)). Currently, I'm working on a vareity of projects in policing and police accountability.
 
 In the past, I've worked as a research assistant for the [Penn Wharton Budget Model](https://budgetmodel.wharton.upenn.edu/), a nonpartisan, research-based initiative that provides accurate, accessible and transparent economic analysis of public policy’s fiscal impact directed by Dr. Kent Smetters. I've also spent time as a summer consultant at [Bates White Economic Consulting](https://www.bateswhite.com/), advising firms on anti-trust implications of potential mergers. 
 
