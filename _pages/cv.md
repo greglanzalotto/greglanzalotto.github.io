@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV.pdf). (Updated May 2024)
+My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV_Feb2025.pdf). (Updated February 2025)
