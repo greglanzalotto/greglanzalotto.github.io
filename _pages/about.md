@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a first-year graduate student in in the Operations, Information and Decisions Department at The Wharton School. I conduct research with the group Research on Policing Reform and Accountability ([RoPRA](https://policingresearch.org/)). Currently, I'm working on a vareity of projects in policing and police accountability.
+Welcome! I'm a third-year graduate student in in the Operations, Information and Decisions Department at The Wharton School. I conduct research with the group Research on Policing Reform and Accountability ([RoPRA](https://policingresearch.org/)). Currently, I'm working on a vareity of projects in policing and police accountability.
 
 In the past, I've worked as a research assistant for the [Penn Wharton Budget Model](https://budgetmodel.wharton.upenn.edu/), a nonpartisan, research-based initiative that provides accurate, accessible and transparent economic analysis of public policy’s fiscal impact directed by Dr. Kent Smetters. I've also spent time as a summer consultant at [Bates White Economic Consulting](https://www.bateswhite.com/), advising firms on anti-trust implications of potential mergers. 
 
@@ -18,7 +18,7 @@ As an undergrad, I consulted for the Wharton Analytics Fellows, a highly selecti
 
 I'm passionate about making the world a better place through data. My research interests are in computational social science, causal inference, and machine learning. 
 
-My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV.pdf). (Updated May 2024)
+My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV_Feb2025.pdf). (Updated May 2024)
 
-Thank you for visiting and feel free to reach out on my [twitter](https://twitter.com/GregLanzalotto) or over [email](mailto:glanza@sas.upenn.edu).
+Thank you for visiting and feel free to reach out on my [twitter](https://twitter.com/GregLanzalotto) or over [email](mailto:glanza@wharton.upenn.edu).
 
