@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a third-year graduate student in in the Operations, Information and Decisions Department at The Wharton School. I conduct research with the group Research on Policing Reform and Accountability ([RoPRA](https://policingresearch.org/)). Currently, I'm working on a vareity of projects in policing and police accountability.
-
-In the past, I've worked as a research assistant for the [Penn Wharton Budget Model](https://budgetmodel.wharton.upenn.edu/), a nonpartisan, research-based initiative that provides accurate, accessible and transparent economic analysis of public policy’s fiscal impact directed by Dr. Kent Smetters. I've also spent time as a summer consultant at [Bates White Economic Consulting](https://www.bateswhite.com/), advising firms on anti-trust implications of potential mergers. 
-
-I completed my undergrad at the University of Pennsylvania majoring in Mathematical Economics with a minor in Statistics. I graduated in May 2022 with Magna Cum Laude, Phi Beta Kappa, and honors in the major.
-
-As an undergrad, I consulted for the Wharton Analytics Fellows, a highly selective fellowship program that allows motivated Wharton undergraduates, MBAs, and graduate students to put their analytics skills to the test in the real world. Through my experience and coursework I've become proficient in R and Python, along with their assorted machine learning, data analysis, and data visualization packages. 
-
-I'm passionate about making the world a better place through data. My research interests are in computational social science, causal inference, and machine learning. 
+I am a PhD candidate in Operations, Information, and Decisions at the Wharton School, University of Pennsylvania. My research examines how organizations monitor and discipline frontline workers when performance is difficult to observe and discretion is high. I study these questions in the context of policing, focusing on officer discipline, body-worn camera auditing, and racial inequality in administrative data. More broadly, my work engages with organizational control, fairness and legitimacy, and the unintended consequences of new monitoring technologies such as AI.
 
 My latest CV can be found [here](http://greglanzalotto.github.io/files/Greg_Lanzalotto_CV_Feb2025.pdf). (Updated February 2025)
 
